@@ -53,6 +53,7 @@
 
 - [임베디드 레시피](http://recipes.egloos.com/)
 - [기술노트-위키북스](https://wikidocs.net/book/2184)
+- [FPGA설계 블로그](https://blog.daum.net/trts1004/)
 
 ###### reference source 
 - [자료정리 깃](https://github.com/kim-sunghoon/Study-materials)

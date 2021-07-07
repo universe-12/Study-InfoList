@@ -1,6 +1,7 @@
 # Study-InfoList
 ###### 수정중
 2021/07/03
+2021/07/07
 ## Xilinx
 
 - #### [Xilinx University Program](https://www.xilinx.com/support/university.html)
@@ -54,6 +55,7 @@
 - [임베디드 레시피](http://recipes.egloos.com/)
 - [기술노트-위키북스](https://wikidocs.net/book/2184)
 - [FPGA설계 블로그](https://blog.daum.net/trts1004/)
+- [딥러닝 블로그](https://m.blog.naver.com/PostList.naver?blogId=doksg)
 
 ###### reference source 
 - [자료정리 깃](https://github.com/kim-sunghoon/Study-materials)
